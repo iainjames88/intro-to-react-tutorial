@@ -32,6 +32,10 @@ text-align: center;
 width: 34px;
 }
 
+.square.winner {
+    background: lime;
+}
+
 .square:focus {
 outline: none;
 }
